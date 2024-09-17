@@ -1,6 +1,5 @@
 # Include Setup Instructions:
 
-   ```markdown
    # Project Setup
 
    1. **Create a virtual environment:**
@@ -30,4 +29,3 @@
       ```
 
    4. **Run your project**
-   ```
